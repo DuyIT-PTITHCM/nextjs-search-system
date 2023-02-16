@@ -1,0 +1,27 @@
+------------------ add library --------------------------------
+for product
+1) axios 
+2) classnames
+3) usehooks-ts : cho phép bạn tạo ra các hook độc lập nhưng có thể sử dụng chung trong các ứng dụng React của bạn
+4) swr : get data from api
+5) slick-carousel , react-slick 
+6) recoil
+7) sharp : optimize image 
+8) react-slick
+9) react-datepicker
+10) pm2 quản lý và giám sát ứng dụng Node.js
+11) next-i18next 
+12) highcharts-react-official highcharts 
+13) date-fns
+14) tailwindcss (lay cai minh xai thoi ko du thua)
+15) fortawesome
+for dev
+1) tailwindcss
+2) husky
+3) typescript 
+4) tailwindcss
+5) prettier
+6) postcss
+7) lint-staged
+8) eslint-plugin-react
+9) ....
